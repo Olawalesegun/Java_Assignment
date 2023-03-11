@@ -1,0 +1,4 @@
+2.12  
+	These are the correct java statements 
+	a) y = a * x * x + 5 * x + 2;  
+	b) y = a * x * x + (5 * x) + 2;

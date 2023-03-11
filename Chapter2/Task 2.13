@@ -1,0 +1,2 @@
+2.13
+	The output that will be printed for the first java code snippet is 13 and this is because, Multiplication has a higher precedence, hence it will carry out the calculation for the operands on 		its left and right first before summing for the summation, while the output for the second java code snippet is 14, and this is because the calculation starts from the operands carring the higher precedence, which is p and 2, before summing for 4.
